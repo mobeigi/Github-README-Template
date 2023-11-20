@@ -4,7 +4,6 @@
 <h3 align="center">Repo Title</h3>
 <p align="center">Repo Subtitle/Tagline</p>
 <h2></h2>
-</p>
 <br />
 
 <p align="center">
